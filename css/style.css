@@ -1,0 +1,117 @@
+body{
+    min-width: 320px;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    color: #fff;
+    background: linear-gradient(0deg,#333366,#1a1a74);
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+a{
+    color: #ffffff;
+}
+a :hover{
+    color: #ffffff;
+}
+
+.nav-item{
+    font-size: 15px;
+    color: #fff;   
+    font-family: 'Playfair Display', serif;
+    margin-left: 30px;
+}
+
+header .navbar-light{
+    background-color: #fff;
+}
+
+header .navbar-brand{
+    font-size: 20;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.slider{
+    margin-bottom: 60px;
+    margin-top: 50px;
+}
+
+.maintexts{
+    color: black;
+    font-family: Impact;
+    font-size: 72px;
+    background: linear-gradient(0deg,#a3a0a0,#ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.media{
+    margin-top: 10px;
+}
+
+.romb{
+    background-color: #020217;
+    background: linear-gradient(to top, #020217, #000058);
+    box-shadow: 30px 30px 50px black;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.tm{
+    font-size: 68px;
+}
+
+.alah{
+    background-color: inherit;
+}
+.grid-posts{
+    margin-bottom: 100px;
+}
+.grid-posts .card{
+    border: 0;
+    margin-bottom: 100px;
+}
+
+.grid-posts .card-body{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.where{
+    color: #fff;
+}
+
+.Debuff{
+    font-size: 20px;
+}
+
+.header{
+    background-color: #000059;
+}
+.navbar{
+    margin-left: 400px;
+    margin-bottom: 0px;
+}
+
+.collapse{
+    padding-right: 400px;
+    padding-bottom: 22px;
+}
+
+.zeb{
+    font-size: 20px;    
+}
+
+.lox{
+    padding-bottom: 20;
+}
+
+.kk{
+    margin-left: 20px;
+}
